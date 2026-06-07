@@ -151,8 +151,6 @@ The dashboard simplifies controller tuning and testing by providing direct acces
 ```text
 src/            → Main flight control firmware
 lib/            → Drivers and control modules
-docs/           → Project documentation
-hardware/       → Circuit and hardware design files
 images/         → Project images and diagrams
 README.md       → Project documentation
 ```
